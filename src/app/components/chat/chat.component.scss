@@ -1,0 +1,34 @@
+.chat-container {
+  max-height: 300px;
+  overflow-y: auto;
+  margin-bottom: 15px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.chat-message {
+  display: flex;
+  margin-bottom: 10px;
+
+  .message-content {
+    padding: 5px 10px;
+    border-radius: 5px;
+  }
+}
+
+.user-message {
+  justify-content: flex-end;
+
+  .message-content {
+    background-color: #007bff;
+    color: #fff;
+  }
+}
+
+.assistant-message {
+  .message-content {
+    background-color: rgb(42, 203, 42);
+    color: #212529;
+  }
+}
