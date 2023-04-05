@@ -1,6 +1,6 @@
 # Project Background
 
-This project was generated using ChatGPT 4 by giving some basic specifications, asking for the directions, implementing the directions, then responding with any issues until something workable was created. See the full [Transcript](transcript.mht) for the exact exchange.
+This project was generated using ChatGPT 4 by giving some basic specifications, asking for the directions, implementing the directions, then responding with any issues until something workable was created. See the full [Transcript](https://sharegpt.com/c/fQ7ggsx) for the exact exchange.
 
 ## Notable observations
 1. A prior exercise revealed that it was not aware of the latest OpenAPI specs, so I fed in the current specifications in order for it to understand how to implement it. This worked perfectly.
